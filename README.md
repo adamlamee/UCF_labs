@@ -3,3 +3,4 @@ These Jupyter notebooks are for use in the undergraduate physics labs at UCF. Yo
   
 - **Intro to Jupyter**: start here if you haven't used a Juypter notebook before. [Open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/master/intro.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/master/intro.ipynb).  
 - **Making Comparisons**: [open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/master/making_comparisons.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/master/making_comparisons.ipynb).  
+- **Fitting a Model**: [open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/master/fitting_a_model.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/master/fitting_a_model.ipynb).  
