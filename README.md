@@ -5,6 +5,8 @@ These Jupyter notebooks are for use in the undergraduate physics labs at UCF. Yo
 - **Analysis practice**: Read in a data file, make some plots, and do some analysis. [Open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/main/analysis_practice.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/main/analysis_practice.ipynb).  
 
 ## Coming Soon: Useful bits of Code  
+- **Opening a Data File**: Upload a file from your computer or from a shared Google Sheet. Also preview and crop the section of the data you need. [Open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/main/opening_a_data_file.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/main/opening_a_data_file.ipynb).  
+
 - Opening and previewing a data file
 - Making a histogram and scatterplot
 - Doing math with data
