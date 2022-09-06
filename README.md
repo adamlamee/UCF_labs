@@ -4,6 +4,14 @@ These Jupyter notebooks are for use in the undergraduate physics labs at UCF. Yo
 - **Intro to Jupyter**: start here if you haven't used a Juypter notebook before. [Open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/main/intro.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/main/intro.ipynb).  
 - **Analysis practice**: Read in a data file, make some plots, and do some analysis. [Open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/main/analysis_practice.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/main/analysis_practice.ipynb).  
 
+## Coming Soon: Useful bits of Code  
+- Opening and previewing a data file
+- Making a histogram and scatterplot
+- Doing math with data
+- Turning accelerometer data into velocity and position
+- Comparing two data sets with a Holmes t'
+- Fitting a model and comparing fits
+
 <!--
 - **Making Comparisons**: [open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/main/making_comparisons.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/main/making_comparisons.ipynb).  
 - **Fitting a Model**: [open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/main/fitting_a_model.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/main/fitting_a_model.ipynb).  
