@@ -3,8 +3,8 @@ These Jupyter notebooks are for use in the undergraduate physics labs at UCF. Yo
   
 - **Intro to Jupyter**: start here if you haven't used a Juypter notebook before. [Open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/main/intro.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/main/intro.ipynb).  
 - **Lab 1: Analysis practice**: Read in a data file, make some plots, and do some analysis.  
-  - Use this version if you're reading in data from a shared Google Sheet [Open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/main/analysis_practice_a.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/main/analysis_practice_a.ipynb).  
-  - Use this version if you're uploading a data file from your computer [Open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/main/analysis_practice_b.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/main/analysis_practice_b.ipynb).  
+  - Use this version if you're reading in data from a shared Google Sheet [Open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/main/analysis_practice_b.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/main/analysis_practice_b.ipynb).  
+  - Use this version if you're uploading a data file from your computer [Open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/main/analysis_practice_a.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/main/analysis_practice_a.ipynb).  
 
 ## Coming Soon: Useful bits of Code  
 - **Opening a Data File**: Upload a file from your computer or from a shared Google Sheet. Also preview and crop the section of the data you need. [Open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/main/opening_a_data_file.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/main/opening_a_data_file.ipynb).  
