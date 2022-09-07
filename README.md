@@ -6,6 +6,7 @@ These Jupyter notebooks are for use in the undergraduate physics labs at UCF. Yo
   - Use this version if you're reading in data from a shared Google Sheet [Open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/main/analysis_practice_b.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/main/analysis_practice_b.ipynb).  
   - Use this version if you're uploading a data file from your computer [Open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/main/analysis_practice_a.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/main/analysis_practice_a.ipynb).  
 
+<!--
 ## Coming Soon: Useful bits of Code  
 - **Opening a Data File**: Upload a file from your computer or from a shared Google Sheet. Also preview and crop the section of the data you need. [Open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/main/opening_a_data_file.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/main/opening_a_data_file.ipynb).  
 
@@ -16,7 +17,7 @@ These Jupyter notebooks are for use in the undergraduate physics labs at UCF. Yo
 - Comparing two data sets with a Holmes t'
 - Fitting a model and comparing fits
 
-<!--
+
 - **Making Comparisons**: [open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/main/making_comparisons.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/main/making_comparisons.ipynb).  
 - **Fitting a Model**: [open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/main/fitting_a_model.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/main/fitting_a_model.ipynb).  
 -->
