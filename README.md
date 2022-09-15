@@ -6,6 +6,8 @@ These Jupyter notebooks are for use in the undergraduate physics labs at UCF. Yo
   - Use this version if you're reading in data from a shared Google Sheet [Open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/main/analysis_practice_b.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/main/analysis_practice_b.ipynb).  
   - Use this version if you're uploading a data file from your computer [Open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/main/analysis_practice_a.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/main/analysis_practice_a.ipynb).  
 - **Lab 2: Comparing two data sets**: *template notebook coming soon*.  
+- **Lab 3: Fitting a model**: *template notebook coming less soon*.  
+- **Lab 4: Analyzing a really big data set**: *template notebook coming eventually*.  
 
 <!--
 ## Coming Soon: Useful bits of Code  
