@@ -13,7 +13,7 @@ These Jupyter notebooks are for use in the undergraduate physics labs at UCF. Yo
 - **Reading in a data file**: Use pandas to read in a data file.  
   - Use this version to read in data from a *shared Google Sheet* [Open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/main/reading_data_from_sheet.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/main/reading_data_from_sheet.ipynb).  
   - Use this version to *upload a data file* from your computer [Open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/main/reading_data_local_upload.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/main/reading_data_local_upload.ipynb).  
-- **Previewing a data file**: Use pandas to read in and preview a data file. [Open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/main/previewing_data.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/main/previewing_data.ipynb).  
+- **Previewing a data file**: Use pandas to preview a data file. [Open in Colab](https://colab.research.google.com/github/adamlamee/UCF_labs/blob/main/previewing_data.ipynb) or [download](https://github.com/adamlamee/UCF_labs/raw/main/previewing_data.ipynb).  
 
 - Making a histogram and scatterplot: *coming soon*  
 - Doing math with data: *coming soon*  
