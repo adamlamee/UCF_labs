@@ -1,4 +1,4 @@
-# Answers to the [model fitting practice](./README.md) self-check quesitons  
+# Answers to the self-check quesitons in [Lab 3: model fitting practice](./README.md)  
 ### Part 1  
 How many temperature measurements are there?  
 **317 rows according to data.shape**  
