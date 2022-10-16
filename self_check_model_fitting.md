@@ -1,6 +1,6 @@
 # Answers to the self-check quesitons in [Lab 3: model fitting practice](./README.md)  
 ### Part 1  
-How many temperature measurements are there?  
+How many position measurements are there?  
 **317 rows according to data.shape**  
 
 What was the duration of this data collection?   
@@ -35,17 +35,17 @@ What is this model's RSS?
 While the RSS for a single model doesn't tell us much, how could comparing the RSS values for two models help determine which one fits the data better?  
 **For two models, the one with a *smaller* RSS has its trendline close to the data points and therefor is a better fit.**  
 
-If the example data from STRATA-2P were linear, the residuals would be evenly distributed across the residual plot. However, the residuals in the middle of the plot are mostly negative while the residuals at the far left and right are mostly positive. What does that communicate about this model function?  
+If the position data were linear, the residuals would be evenly distributed across the residual plot. However, the residuals in the middle of the plot are mostly while the residuals at the left and right are positive. What does that communicate about this model function?  
 **The residual plot shows how this model doesn't fit as well as a curve that bows down in the middle (i.e., concave up). See the [residual analysis](https://www.itl.nist.gov/div898/handbook/pmd/section6/pmd614.htm) section of the NIST Engineering Statistics Handbook if you want more.**  
 
 What shape of model function might fit this data better?  
 **Logarithms, exponential decay, and parabolas can all be concave up.**  
 
-Whenever possible, you should choose a model function that has some basis in theoritical predicitons related to the data. Can you think of any functions that might be reasonable to describe a substance cooling off?  
-**[Newton's Law of Cooling](https://en.wikipedia.org/wiki/Newton%27s_law_of_cooling) predicts an exponential decay for a heated substance coming to equilibrium with its surroundings.**  
+Whenever possible, you should choose a model function that has some basis in theoritical predicitons related to the data. Can you think of any functions that might be reasonable to describe the position of an object speeding up?  
+**The three kinematic equations that describe accelerating motion. The one that looks like x = x<sub>0</sub> + v<sub>0</sub>t + 1/2at<sup>2</sup> would be a good choice.**  
 
 ### Part 4  
-How well does your new model appear to fit the STRATA-2P data in the scatterplot?  
+How well does your new model appear to fit the motion data in the scatterplot?  
 **Does the curve look close to the data points? "Not well" is a totally acceptable answer here. Sometime you try a model that isn't as good of a fit.**  
 
 Does the residual plot show any pattern like it did for the trendline?  
@@ -58,4 +58,4 @@ Based on the RSS, did your new model fit the data better than the trendline?
 **If it has a smaller RSS than 1.69, it's a better fit than the trendline. Otherwise it's not as good of a fit (which is totally okay).**  
 
 If another group were going to try fitting a different function, how would you advise them?  
-**Try the exponential decay if they haven't already.**  
+**Try a quadratic function if they haven't already.**  
