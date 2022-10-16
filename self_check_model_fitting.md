@@ -1,13 +1,13 @@
 # Answers to the self-check quesitons in [Lab 3: model fitting practice](./README.md)  
 ### Part 1  
 How many position measurements are there?  
-**317 rows according to data.shape**  
+**250 rows according to data.shape**  
 
 What was the duration of this data collection?   
-**Around 60 seconds, according to the scatterplot.**   
+**Around 2.5 seconds, according to the scatterplot or data.tail().**   
 
 What might be a good type of function to fit to this data?  
-**It looks pretty linear, so y=mx+b?**  
+**It looks pretty linear, so y=mx+b? Or some thing that curves up, like a quadratic?**  
 
 Can you figure out what the 's' parameter sets in the plt.scatter function?  
 **s sets the point size; try changing its value and running that block of code again.**  
@@ -20,7 +20,7 @@ What is the line equation for your trendline, including the optimized coefficien
 **y = -0.4922 x - 0.17867297, according to popt.**  
 
 How well does a line fit this data? What are the signs that this data isn't quite linear? Can you think of any functions that might be a better fit?  
-**Data points in the middle tend to be below the line and the points to the left and right or mostly above it; a curve would fit better.**  
+**Data points in the middle tend to be below the line and the points to the left and right are above it; a curve like a quadratic would fit better.**  
 
 ### Part 3  
 Could a residual be zero? Could it be negative?  
@@ -55,7 +55,7 @@ What is your new model function equation, including the optimized coefficients?
 **See the answer in Part 2 for how to write that.**  
 
 Based on the RSS, did your new model fit the data better than the trendline?  
-**If it has a smaller RSS than 1.69, it's a better fit than the trendline. Otherwise it's not as good of a fit (which is totally okay).**  
+**If it has a smaller RSS than 1.18, it's a better fit than the trendline. Otherwise it's not as good of a fit (which is totally okay).**  
 
 If another group were going to try fitting a different function, how would you advise them?  
 **Try a quadratic function if they haven't already.**  
