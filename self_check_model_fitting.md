@@ -17,7 +17,7 @@ What's the name of the function you defined to calculate the model y-values?
 **model_1; see the line starting with "def model_1".**  
 
 What is the line equation for your trendline, including the optimized coefficients?  
-**y = -.0389 x + 60.9, according to popt.**  
+**y = -0.4922 x - 0.17867297, according to popt.**  
 
 How well does a line fit this data? What are the signs that this data isn't quite linear? Can you think of any functions that might be a better fit?  
 **Data points in the middle tend to be below the line and the points to the left and right or mostly above it; a curve would fit better.**  
@@ -30,7 +30,7 @@ If all the data points fell exactly on the trendline, what would the model's RSS
 **An ideal RSS equal to zero would occur if all points were exactly on the line (summing all residuals equal to zero). Since the RSS sums up *squared* residuals, the RSS is never negative**   
 
 What is this model's RSS?  
-**About 1.69.**  
+**About 1.18.**  
 
 While the RSS for a single model doesn't tell us much, how could comparing the RSS values for two models help determine which one fits the data better?  
 **For two models, the one with a *smaller* RSS has its trendline close to the data points and therefor is a better fit.**  
